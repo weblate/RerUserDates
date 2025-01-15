@@ -1,10 +1,11 @@
 {
     "RerUserDates": {
         "DefaultDateMessage": "Vaše výchozí nastavení 'rozsah' je nyní 'včera'. Můžete navštívit stránku s profilem a tam ho změnit",
+        "Settings": "Zlepšete výkonnost systému Matomo odstraněním vlastních hodnot rozsahu z profilů uživatelů a vynucením jejich výchozí hodnoty „včera“. Můžete také skrýt pole „Rozsah data“ z kalendáře na ovládacím panelu.",
         "SettingsCalendars": "Skrýt 'rozsah dat' v kalendáři",
-        "SettingsCalendarsDescription": "Nedovolit uživatelům vybrat vlastní rozsah v hlášení pomocí kalendáře na nástěnce",
+        "SettingsCalendarsDescription": "Zamezit uživatelům zvolit si vlastní sestavu rozsahu v kalendáři ovládacího panelu",
         "SettingsProfiles": "Odstranit vlastní rozsahy dat jako výchozí z uprofilů uživatelů",
-        "SettingsProfilesDescription": "Obyčejní uživatelé mohou ve svém profilu zvolit pouze rozsah dnes, včera, týden a měsíc jako výchozí hodnotu. Uživatelům s rozsahy bude nastaveno 'včera'.",
+        "SettingsProfilesDescription": "Běžní uživatelé mohou ve svém profilu zvolit jako výchozí hodnotu pouze rozsahy dnes, včera, týden, měsíc. Uživatelé, kteří již rozsahy mají, jsou nuceni použít hodnotu „včera“.",
         "SuperuserMessage": "Obyčejní uživatelé si nemohou zvolit vlastní rozsah u rozsahových hodnot ve svém profilu, musí si zvolit 'včera' (RelUserDates)"
     }
 }
