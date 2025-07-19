@@ -1,6 +1,11 @@
 {
     "RerUserDates": {
+        "DefaultDateMessage": "Oletuskäyttäjäasetuksen 'väli' on nyt 'eilen'. Voit valita toisen välin käyttäjäasetusten sivulla",
+        "Settings": "Paranna Matomon suorituskykyä poistamalla mukautettuja aluearvoja käyttäjäprofiileista ja pakottamalla oletusarvoksi \"eilinen\". Voit myös piilottaa \"Päivämääräalue\"-kentän kojelaudan kalenterista.",
         "SettingsCalendars": "Piilota 'Päivävalinta' kalenterista",
-        "SettingsCalendarsDescription": "Estä käyttäjiä valitsemasta kustomoituja aikavälejä työpöydän kalenterista."
+        "SettingsCalendarsDescription": "Estä käyttäjiä valitsemasta mukautettua alueraporttia kojelaudan kalenterista",
+        "SettingsProfiles": "Poista mukautetut aluearvot oletusarvoiksi käyttäjäprofiileissa",
+        "SettingsProfilesDescription": "Tavalliset käyttäjät voivat valita profiilissaan oletusarvoiksi vain tämän päivän, eilisen, viikon ja kuukauden välit. Käyttäjien, joilla on jo välit, on pakko valita 'eilinen'.",
+        "SuperuserMessage": "Tavallisilla käyttäjillä on kiellettyä valita profiiliinsa oletusarvoista vaihteluväliä. Vaihteluarvot pakotetaan arvoon 'eilinen' (RerUserDates)"
     }
 }
