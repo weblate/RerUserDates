@@ -1,1 +1,11 @@
-{}
+{
+    "RerUserDates": {
+        "DefaultDateMessage": "Is é 'raon' do shocrú úsáideora réamhshocraithe anois ná 'inné'. Is féidir leat cuairt a thabhairt ar leathanach socruithe úsáideora chun raon difriúil a roghnú",
+        "Settings": "Faigh feidhmíochtaí Matomo níos fearr ag baint luachanna raon saincheaptha ó phróifílí úsáideoirí ag brú a réamhshocrú go dtí 'inné'. Is féidir leat réimse 'Raon Dáta' a cheilt ó fhéilire an deais freisin.",
+        "SettingsCalendars": "Folaigh 'Raon dáta' san fhéilire",
+        "SettingsCalendarsDescription": "Seachain úsáideoirí tuairisc raon saincheaptha a roghnú i bhféilire a ndeais",
+        "SettingsProfiles": "Bain luachanna raon saincheaptha mar réamhshocrú i bpróifílí úsáideoirí",
+        "SettingsProfilesDescription": "Ní féidir le húsáideoirí rialta ach raonta inniu, inné, seachtaine, míonna a roghnú mar luach réamhshocraithe ina bpróifíl. Cuirtear iallach ar úsáideoirí a bhfuil raonta acu cheana féin dul go dtí 'inné'.",
+        "SuperuserMessage": "Tá cosc ar úsáideoirí rialta luach réamhshocraithe raon a roghnú ina bpróifíl. Cuirtear iallach ar luachanna raon go dtí 'inné' (RerUserDates)"
+    }
+}
